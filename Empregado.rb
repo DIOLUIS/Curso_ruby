@@ -28,7 +28,7 @@ class Empregado
 end
 
 # Instanciação em objeto passando argumento
-empr1 = Empregado.new("Pedro enriqu","Venda")
+empr1 = Empregado.new("Pedro enriqjku","Venda")
 
 puts("Nome: #{empr1.nome}") #Exibe uma string composta com o método GET
 puts("Cargo: #{empr1.cargo}") #Exibe uma string composta com o método GET
